@@ -2,6 +2,13 @@ static id password is :
 id : test@example.com
 PASSWORD :password
 
+created :Create web application using react js. In this application please create the following
+functionalites:-
+1) Login Page
+2) Authentication (Create public and private routing)
+3) Dashboard(Graph implemented)
+4) Product Management (CRUD)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
